@@ -1,13 +1,11 @@
 Wash
 Cooking
-Work
+NewWork
 Play football
 Go to Church
 Visit friends
 building
 Bathing
 Clean Code
-Bathing1
+Play game
 Coding
-Office Work
-Job time
